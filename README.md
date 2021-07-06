@@ -1,5 +1,5 @@
 # PLC
-Learn Logic behind building circuit for Pneumatic and Hydraulic system.
+Learn Logic behind building circuit for Pneumatic and Hydraulic system.<br><br>
 <b>Aim of the Experiments.<br></b>
 a) Perform simple expansion and retraction of a double acting cylinder.<br>
 b) Expand two double acting cylinders, one after other and after expansion, retract both cylinders simultaneously.<br>
